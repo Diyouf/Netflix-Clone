@@ -1,0 +1,25 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    color: white;
+}
+
+a{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    background-color: rgb(248, 47, 47);
+    color: white;
+    border: 1px solid white;
+
+}
